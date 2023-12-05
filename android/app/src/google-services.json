@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594544396292",
+    "firebase_url": "https://pythonconnect-46c79-default-rtdb.firebaseio.com",
+    "project_id": "pythonconnect-46c79",
+    "storage_bucket": "pythonconnect-46c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594544396292:android:6b510b86a501492db54d51",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594544396292-4e6tj0n2f632n3r43vnu80hni3cgb2me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTHSmw59PfGV4LoWlEkdE94-L59-QuMng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594544396292-4e6tj0n2f632n3r43vnu80hni3cgb2me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
